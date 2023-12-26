@@ -1,0 +1,104 @@
+INFO 10:32:53:598 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:32:53:611 wdm.WebDriverManager logSeekRepo:1564 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 10:32:54:506 online.Downloader downloadAndExtract:131 Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/mac-arm64/chromedriver-mac-arm64.zip
+INFO 10:32:57:140 online.Downloader extract:192 Extracting driver from compressed file chromedriver-mac-arm64.zip
+INFO 10:32:57:271 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:33:03:115 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:33:03:117 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:34:21:703 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:34:21:714 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+WARN 10:34:25:040 handler.WebSocketHandler handleException:142 onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1623) [?:?]
+INFO 10:35:11:595 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:35:11:606 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:46:44:837 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:46:44:848 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:46:49:010 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:46:49:012 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:46:49:783 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:46:49:785 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:46:50:533 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:46:50:535 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:46:51:317 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:46:51:319 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:46:52:077 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:46:52:079 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:52:28:882 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:52:28:896 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:52:33:101 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:52:33:102 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:52:35:068 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:52:35:070 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:52:37:022 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:52:37:024 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:52:38:987 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:52:38:989 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:52:41:112 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:52:41:114 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:54:35:612 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:54:35:623 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:54:40:081 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:54:40:083 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:54:42:019 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:54:42:022 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:54:44:095 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:54:44:097 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:54:46:087 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:54:46:088 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:54:48:658 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:54:48:662 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:55:54:367 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:55:54:380 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:56:03:279 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:56:03:282 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:56:05:645 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:56:05:647 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:56:07:687 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:56:07:690 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:58:34:320 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:58:34:321 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 10:58:44:609 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 116.0.5845.96 (resolved driver for Chrome 116)
+INFO 10:58:44:611 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/116.0.5845.96/chromedriver
+INFO 20:43:03:550 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:43:03:563 wdm.WebDriverManager logSeekRepo:1564 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 20:43:04:033 online.Downloader downloadAndExtract:131 Downloading https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.109/mac-arm64/chromedriver-mac-arm64.zip
+INFO 20:43:05:634 online.Downloader extract:192 Extracting driver from compressed file chromedriver-mac-arm64.zip
+INFO 20:43:05:761 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:43:15:289 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:43:15:292 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:43:17:187 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:43:17:189 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:43:19:036 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:43:19:038 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:43:20:895 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:43:20:897 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:43:22:259 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:43:22:262 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:44:09:614 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:44:09:626 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:44:14:584 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:44:14:587 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:44:21:724 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:44:21:727 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:44:23:581 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:44:23:584 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:44:25:866 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:44:25:869 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:44:27:161 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:44:27:163 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
+INFO 20:44:29:067 wdm.WebDriverManager resolveDriverVersion:1212 Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+INFO 20:44:29:069 wdm.WebDriverManager exportDriver:1265 Exporting webdriver.chrome.driver as /Users/dimav/.cache/selenium/chromedriver/mac-arm64/120.0.6099.109/chromedriver
